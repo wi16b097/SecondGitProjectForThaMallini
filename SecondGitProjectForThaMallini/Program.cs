@@ -11,6 +11,9 @@ namespace SecondGitProjectForThaMallini
         static void Main(string[] args)
         {
             Console.WriteLine("Holla die Waldfee!"); //Änderung
+
+
+            //schneller
         }
     }
 }
