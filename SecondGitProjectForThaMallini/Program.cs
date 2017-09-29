@@ -16,6 +16,15 @@ namespace SecondGitProjectForThaMallini
 
 
             //schneller
+
+
+
+
+            /*bliblablub
+             * 
+             * 
+             * du bist ein noob!
+             * /
         }
     }
 }
