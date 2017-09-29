@@ -10,7 +10,7 @@ namespace SecondGitProjectForThaMallini
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Holla die Waldfee!");
+            Console.WriteLine("Holla die Waldfee!"); //Änderung
         }
     }
 }
